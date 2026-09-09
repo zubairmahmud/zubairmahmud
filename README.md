@@ -15,10 +15,9 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="60%" />
 </p>
 
-🌟 I’m **Zubair Mahmud** – passionate about combining **technology, business, and creativity**.  
-💡 With expertise in **Web & Software Development, SEO, Video Editing, and Digital Marketing**, I thrive on creating projects that inspire people.  
-🚀 Currently working on **ZUNUR**, my brand focusing on **fashion and digital innovation**.  
-🎥 As a **Content Creator**, I love blending **education + entertainment** to inspire communities.  
+ I’m **Zubair Mahmud** – passionate about combining **technology, business, and creativity**.  
+ With expertise in **Web & Software Development, SEO and Digital Marketing**  
+Currently working on **My brand**, my brand focusing on **fashion and digital innovation**.   
 
 ---
 
@@ -32,10 +31,9 @@
 
 ## 🚀 Current Focus  
 
-- 🌍 Building **ZUNUR** – a creative brand for fashion + digital products.  
-- 💻 Growing as a **full-stack developer**.  
-- 🎥 Expanding content creation on **YouTube & social platforms**.  
-- ✨ Sharing knowledge + inspiring people through tech & creativity.  
+-  Building  brand for fashion + digital products.  
+-  Growing as a **full-stack developer**.    
+
 
 ---
 
@@ -52,7 +50,7 @@
 
 ---
 
-## 🎥 Content Creator  
+##
 
 <p align="center">
   <a href="https://youtube.com/@me.zubairmahmud"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
