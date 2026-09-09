@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF6EC4,FFD700,00C9FF,92FE9D&width=800&center=true&vCenter=true&lines=💻+Software+Developer;🎥+Digital+Creator;🚀+Entrepreneur;🌍+Founder+of+ZUNUR;🔥+Innovator+%7C+Content+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF6EC4,FFD700,00C9FF,92FE9D&width=800&center=true&vCenter=true&lines=💻+Software+Developer;🧑‍💼+Businessman;" />
 </h3>
 
 ---
