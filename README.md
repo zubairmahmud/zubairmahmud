@@ -1,6 +1,7 @@
 <!-- Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,10,20&text=Zubair%20Mahmud&fontSize=65&fontAlignY=40&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=💻%20Software%20Developer%20%7C%20🎥%20Digital%20Creator%20%7C%20🚀%20Entrepreneur&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,10,20&text=Zubair%20Mahmud&fontSize=65&fontAlignY=40&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=💻%20Software%20Developer%20%7C%20
+🧑‍💼%20 Businessman%20%20%7C%20" />
 </p>
 
 <h3 align="center">
